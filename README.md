@@ -39,7 +39,9 @@ By day, I deep-dive into productivity optimization, leveraging tools like Obsidi
 
 Whether it's scaling a startup idea, debugging an ML model, or strategizing project outreach for events like the WCHL Hackathon — collaboration fuels my journey.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shorya-pratap-rathore-720519352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FrmrJN5aTK27yrrZX1QEqw%3D%3D)  
+- 📧 [Email](mailto:shoryaprataprathore28@gmail.com)  
+- 📞 Phone: +91 9521273011  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shorya-pratap-rathore-720519352)
 📬 Drop me a message, spark a discussion, or explore potential synergies.
 
 ---

@@ -77,19 +77,6 @@ A web application combining plant care guidance with an e-commerce marketplace e
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shoryapratap&show_icons=true&theme=default&hide_border=true" alt="shoryapratap stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoryapratap&show_icons=true&locale=en&layout=compact&hide_border=true" alt="top languages" width="45%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryapratap&hide_border=true" alt="streak stats" />
-</p>
-
----
-
 ### Connect with Me
 
 <p align="left">

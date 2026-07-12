@@ -73,29 +73,6 @@ A web application combining plant care guidance with an e-commerce marketplace e
 <img src="https://img.shields.io/github/last-commit/shoryapratap/shoryapratap?label=Last%20Commit&style=for-the-badge&color=blueviolet" alt="last commit" />
 </p>
 
-### GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shoryapratap&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
-### Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoryapratap&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-### 3D Contribution Calendar
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph-3d?username=shoryapratap&theme=github-compact&hide_border=true" alt="3d contribution graph" />
-</p>
-
-### Snake Contribution Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shoryapratap/shoryapratap/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 ---
 
 ### Connect with Me

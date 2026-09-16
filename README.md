@@ -1,86 +1,89 @@
-<h1 align="center">Shorya Pratap Rathore</h1>
-<h3 align="center">AI Engineer in the making | B.Tech, Artificial Intelligence & Data Science</h3>
+<div align="center">
+  <!-- Upload a pre-cropped circular image to your repo for best results -->
+  <img src="https://github.com/shoryapratap.png" width="160" height="160" alt="Shorya Pratap Rathore">
+  
+  <br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shoryapratap&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://linkedin.com/in/shorya-pratap-rathore-720519352"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/shorya28/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/shoryarathore"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:shoryaprataprathore28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+  <!-- 🚀 Stabilized Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D2FF2A&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shorya+Pratap+Rathore;B.Tech,+AI+%26+Data+Science+🎓;Machine+Learning+Enthusiast+🧠;Building+LeadFlow+%26+PlantGuard+💻" alt="Typing Animation" />
+  </a>
+
+  <br>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shoryapratap&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+    <a href="https://linkedin.com/in/shorya-pratap-rathore-720519352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/shorya28/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+    <a href="https://www.kaggle.com/shoryarathore"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+    <a href="mailto:shoryaprataprathore28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence & Data Science**, Arya College of Engineering & IT, Jaipur
 - 🎯 Aiming to work as an **AI Engineer** (open to ML Engineer roles)
 - 🏢 Completed an internship at **Wipro**, and hold certifications in **Data Science** and **Machine Learning**
 - 🔭 Currently building **[LeadFlow](https://github.com/shoryapratap)** — a multi-tenant CRM/ERP SaaS platform with AI-driven modules
-- 🌱 Also built **PlantGuard**, a plant-care and marketplace web app
+- 🌱 Also built **[PlantGuard](https://github.com/shoryapratap)**, a plant-care and marketplace web app
 - 💬 Ask me about **Python, Java, C++, Machine Learning, DSA, or full-stack development**
-- 📫 Reach me at **shoryaprataprathore28@gmail.com**
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-**[LeadFlow](https://github.com/shoryapratap)** — Multi-tenant CRM/ERP SaaS platform
-Built with Next.js, Node.js, PostgreSQL, and Socket.io. Features 16 functional modules with integrated AI capabilities for workflow automation.
+> **[LeadFlow](https://github.com/shoryapratap)** — *Multi-tenant CRM/ERP SaaS platform*
+> Built with Next.js, Node.js, PostgreSQL, and Socket.io. Features 16 functional modules with integrated AI capabilities for advanced workflow automation.
 
-**[PlantGuard](https://github.com/shoryapratap)** — Plant care & marketplace platform
-A web application combining plant care guidance with an e-commerce marketplace experience.
-
----
-
-### Tech Stack
-
-**Languages**
-
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/><br>Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br>Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/><br>C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/><br>C | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/><br>JavaScript |
-
-**AI / ML & Data**
-
-| | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" height="30"/><br>PyTorch | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" height="30"/><br>TensorFlow | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"/><br>scikit-learn | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="30" height="30"/><br>Pandas | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" height="30"/><br>Seaborn | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" height="30"/><br>OpenCV |
-
-**Web & Backend**
-
-| | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30"/><br>React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30"/><br>Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30" height="30"/><br>Express | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" height="30"/><br>Django | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="30" height="30"/><br>Flask | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/><br>HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/><br>CSS3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30"/><br>Bootstrap |
-
-**Databases & Tools**
-
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/><br>MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30"/><br>MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" width="30" height="30"/><br>Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/><br>Linux | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"/><br>PHP |
+> **[PlantGuard](https://github.com/shoryapratap)** — *Plant care & marketplace platform*
+> A full-stack web application combining intelligent plant care guidance with a seamless e-commerce marketplace experience.
 
 ---
 
-### GitHub Overview
+### 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://img.shields.io/github/followers/shoryapratap?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shoryapratap&label=Public%20Repos&query=$.public_repos&color=success&style=for-the-badge" alt="public repos" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line">
+  <br><br>
+  
+  <p align="center"><b>Languages & AI/ML</b></p>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Languages and ML Icons" />
+  <br><br>
 
-<p align="left">
-<img src="https://img.shields.io/github/stars/shoryapratap?label=Total%20Stars&style=for-the-badge&color=yellow" alt="total stars" />
-<img src="https://img.shields.io/github/last-commit/shoryapratap/shoryapratap?label=Last%20Commit&style=for-the-badge&color=blueviolet" alt="last commit" />
-</p>
+  <p align="center"><b>Web, Backend & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,html,css,mysql,mongo,git,linux,php&theme=dark" alt="Web and DB Icons" />
+  
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line">
+</div>
 
 ---
 
-### Connect with Me
+### 📊 GitHub Overview
 
-<p align="left">
-<a href="https://linkedin.com/in/shorya-pratap-rathore-720519352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://x.com/shorya_pratap28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/shoryarathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shorya28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shoryaprataprathore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<!-- Note: If these stats cards break occasionally, it is just Vercel resetting. They will come back online automatically! -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoryapratap&show_icons=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=F43F5E&border_color=30363D&hide_border=false" alt="Shorya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryapratap&theme=dark&background=0D1117&ring=7C3AED&fire=F43F5E&currStreakNum=D2FF2A&currStreakLabel=7C3AED&border=30363D" alt="Shorya's GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryapratap&layout=compact&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&border_color=30363D" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/shorya-pratap-rathore-720519352" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/shorya_pratap28" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.kaggle.com/shoryarathore" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/shorya28/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/shoryaprataprathore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</div>
